@@ -1,5 +1,0 @@
----------------------------Yapýlacaklar --------------------------------------------
-
--- Tahtayý nesne olarak yeniden tasarla 
--- Taþlara Tahta nesnesini Property olarak tanýmla
--- Oyuncu ve Ýzleyici Nesneleri Oluþtur 
