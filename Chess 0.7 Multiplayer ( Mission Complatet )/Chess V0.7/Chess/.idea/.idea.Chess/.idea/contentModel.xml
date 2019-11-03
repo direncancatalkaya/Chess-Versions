@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Cormanthor\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Chess.1810369696.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Cormanthor\Desktop\Chess" t="IncludeFlat">
+      <e p="Chess" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chess.csproj" t="IncludeRecursive" />
+        <e p="ChessButton.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Form2.cs" t="Include" />
+        <e p="Form2.Designer.cs" t="Include" />
+        <e p="Form2.resx" t="Include" />
+        <e p="Kordinat.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Tas.cs" t="Include" />
+        <e p="Taslar" t="Include">
+          <e p="At.cs" t="Include" />
+          <e p="Fil.cs" t="Include" />
+          <e p="Kale.cs" t="Include" />
+          <e p="Piyon.cs" t="Include" />
+          <e p="Sah.cs" t="Include" />
+          <e p="Vezir.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Chess.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

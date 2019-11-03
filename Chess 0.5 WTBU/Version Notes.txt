@@ -1,0 +1,10 @@
+------------------Yapılacaklar---------------------------
+-- kordinat tiplerini enum yap (Yapıldı)
+-- Taşlara id verildi Hepsi Tek tek Kontrol edilebilsin ( Yapıldı)
+-- Hareket olayını Drag Drop yap (Yapıldı)
+-- Rok (Yapıldı)
+-- Enpas ( yapıldı) (Tüm Enpas Kurallarına Uygun Şekilde Düzenlendi)
+-- Kodu biraz kontrol et Temiz olsun kurallara uyarak yeniden tasarlamaya çalış(Yapıldı)
+-- Enpassı iki ayrı renk olarak yapmamam Sorun Çıkaracak olabilir dikkat et . Saçma yerlere gidebilir . (Kontrol Edildi Sorunsuz)
+
+Bu Version tek bilgisayarda 2 kişi oynanan Sorunsuz versiyondur. v0.6 da Multiplayera Geçiliyor 

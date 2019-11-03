@@ -1,0 +1,23 @@
+chess 0.3 beta
+
+-- Þah tehdit altýnda bulunan herhangi bir konuma oynatýlamýyor 
+--(Bug) Þah bir taþý yerken tehdit altýna gireceði uyarýsý verilmiyor..
+-- Herhangi bir taþýn atack konumu karþý þahý tehdit etmeye baþladýysa Þah çektiðin ekrana yazýlýyor.
+
+chess 0.3 
+
+-- Oynanan rengin Þahý Tehdit Altýna giriyorsa aradan taþ çekilemiyor baþka taþ oynanamýyor þah her türlü kurtarana kadar 
+baþka taþ oynanmýyor (Fake Move Metodu eklenerek yapýlabildi .)
+
+-- ( Ancak Þahý tehdit eden taþda baþka bir taþ tarafýndan yenilemiyor bug var (Düzeltildi ) !)
+
+-- Fake Move Methodu ile Þah için Herhangi bir Override olayýna Gerek kalmadý . Logic açýsýndan temiz oldu.
+
+-- Her Bir Taþ Oynandýðýnda Eðer Karþý Þahý tehdit Etmiþse karþýnýn Yapabileceði Her hamle Denenir
+ ve bu hamleler sonucunda Karþý Þah hala kurtulamýyorsa Þah Mat verilir ..(ÝsCHeckMate Metodu Ýle ) (Araya Taþ Sokmalar vs Hesaplandý)(Ty Debugging)
+
+-----------------------------------------Yapýlmasý gerekenler ve Buglar --------------------------------------------------
+
+
+-- Rok
+-- Enpas

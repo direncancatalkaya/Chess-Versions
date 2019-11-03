@@ -1,0 +1,11 @@
+-- Taþlarýn Hepsinin Hareket Algoritmalarý Doðru !
+-- Taþlara ÝsMoved Bool olarak eklendi ( taþ ilk defamý hareket ediyor, daha önce etmiþmi burada tutuluyor ) 
+
+
+---Sonraki Versiyonda  Yapýlacaklar ----
+
+-- Renk Kontrolü ile Yenilebilecek Taþlarý Kýrmýzý Çizerek Gösterme ??
+--(Bug) Piyon Önünde Taþ olsada back Color Çiziyor ama gitmiyor BackColor blue yapmamasý lazým nedenine bak ! 
+-- Þah Tehdit Altýnda Mý iki renk içinde Ayrý Ayrý Kontrol ettir ! 
+-- Taþ Karþý Renkte Bir Taþýn Üzerine Geldiðinde Yeme iþlemini yaz 
+-- Piyon Karþý Konuma Çýktýðýnda Hangi Taþa Ýstiyorda Dönüþebilsin Popup Olarak Aç

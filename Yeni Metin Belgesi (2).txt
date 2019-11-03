@@ -1,0 +1,8 @@
+iþlemi yaparken gelencommand i nullemeyi unutma 
+
+taþý tutma kýsmýnda playerin rengini kontrol ettirip beklemeyi saðlayabilirsin
+
+
+rok atarken þah tehdit altýnda mý kontrol etmiyor
+
+netstat -ano

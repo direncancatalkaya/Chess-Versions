@@ -1,0 +1,3 @@
+---------------------------Yapýlacaklar --------------------------------------------
+
+Piyon Çýkarmayý ekle multiplayerdan dolayý bozuldu tahta yada taþa metod olarak ekle 

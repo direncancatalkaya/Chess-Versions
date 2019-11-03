@@ -1,0 +1,30 @@
+chess 0.3 
+
+-- Þah tehdit altýnda bulunan herhangi bir konuma oynatýlamýyor 
+--þah bir taþý yerken tehdit altýna gireceði uyarýsý verilmiyor..!! ( Düzeltildi)
+-- Herhangi bir taþýn atack konumu karþý þahý tehdit etmeye baþladýysa Þah çektiðin ekrana yazýlýyor.
+
+chess 0.4 
+
+-- Oynanan rengin Þahý Tehdit Altýna giriyorsa aradan taþ çekilemiyor baþka taþ oynanamýyor þah her türlü kurtarana kadar 
+baþka taþ oynanmýyor (Fake Move Metodu eklenerek yapýlabildi .)
+
+-- ( Ancak Þahý tehdit eden taþda baþka bir taþ tarafýndan yenilemiyor bug var (Düzeltildi ) !)
+
+-- Fake Move Methodu ile Þah için Herhangi bir Override olayýna Gerek kalmadý . Logic açýsýndan temiz oldu ve Kod Çok temizlendi .
+
+-- Her Bir Taþ Oynandýðýnda Eðer Karþý Þahý tehdit Etmiþse karþýnýn Yapabileceði Her hamle Denenir
+ ve bu hamleler sonucunda Karþý Þah hala kurtulamýyorsa Þah Mat verilir ..(ÝsCHeckMate Metodu Ýle ) (Araya Taþ Sokmalar vs Hesaplandý)
+
+(Sonunda Düzgün Çalýþýyor )
+
+-----------------------------------------Yapýlmasý gerekenler ve Buglar ----------------------------------------------------------------------
+v 0.4b
+-- FakeMove Metodu ile Piyonun Karþý Kareye ulaþýnca deðiþmesi olayý bozuldu ! (Düzeltildi )( Döngü Esnasýnda Dizi Güncellenmesi Sorunu)
+-- Piyon ilk defa hareket ediyorsa önüne gelen taþý algýlamýyor üzerinden atlayabiliyor ..( Tüm Piyon Hareket çizimleri Düzeltildi)
+
+
+kalanlar ----------------------------
+-- Rok
+-- Enpas
+-- Return le Metotdan Çýk

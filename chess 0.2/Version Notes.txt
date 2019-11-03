@@ -1,0 +1,25 @@
+-- Taþlarýn Hepsinin Hareket Algoritmalarý Doðru !
+-- Taþlara ÝsMoved Bool olarak eklendi ( taþ ilk defamý hareket ediyor, daha önce etmiþmi burada tutuluyor ) 
+
+v0.2 yenilikler
+
+--Hareket sorunlarý düzeltildi .
+--Taþlar Artýk Birbirini Yiyebiliyor.
+--Piyon Doðru Þekilde Sadece ileri gidiyor ve çaprazýnda yenilebilecek taþ varsa çapraz konuma geçebiliyor .
+--Taþlara Ýlk Kez Hareket Etme Deðiþkeni tanýmlandý . Bir kez hareket edince true oluyor .
+-- Üstteki Özelliðe baðlý olarak piyonlar ilk harekette isterse 2 kare birden gidebilir . daha sonrasýnda tek gidebilir.
+-- (Bug ) Taþa týklayýp tekrar býrakmak için Kendi Olduðu konuma týklanýrsa ilk hamle yapýldý sayýlýyor . Piyon Hareketi için Sorun oluþturuyor (Düzeltildi -- Globale Oldx ve Oldy Deðiþkenleri atýlarak !
+-- Oynama Sýrasý Özelliði Eklendi . Sýraya uyulmadan oynandýðýnda sýra karþý tarafýn diye Hata fýrlatýyor .
+-- Piyon Karþý Kareye Çýktýðýnda Diðer taþlara update eklendi .
+-- Herhangi bir taþ hareket ettiðinde tehdit altýndaki beyaz ve siyah kordinatlar tekrar belirleniyor .
+-- Herhangi Bir Tarafýn Þahý Yenildiðinde Oyun Bitti ve Kazananý Tebrik mesajý fýrlatýlýyor
+
+----------------Yapýlacaklar(Eksikler )  --------------------
+
+-- Þahý tehdit eden varmý bul varsa ve baþka taþ oynanýyorsa uyarý fýrlat 
+-- Piyon enpas ayarla 
+-- aradan taþ kaldýrýlýp býrakýldýðýnda eðer diðer taþlardan þahý tehdit eden varsa taþý o konuma oynatma hata fýrlat 
+-- Þahý bir taþýn tehdit ettiði Konumlardan birine götürüyorsan hata fýrlat 
+-- Þahýn hareket edebilme kordinat listesi Boþ ve þah tehdit altýnda ise þah mat fýrlat 
+
+

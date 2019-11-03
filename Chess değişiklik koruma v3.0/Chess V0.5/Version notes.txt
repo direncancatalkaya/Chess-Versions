@@ -1,0 +1,14 @@
+------------------Yapılacaklar ---------------------------
+-- kordinat tiplerini enum yap ?? 
+-- Taşlara id verildi Hepsi Tek tek Kontrol edilebiliyor
+-- Hareket olayını Drag Drop yap (Yapıldı)
+-- Rok (Yapıldı)
+-- Enpas ( yapıldı) (Tüm Enpas Kurallarına Uygun Şekilde Düzenlendi)
+-- Tahtayı Artık Nesne olarak planla Form sadece çizimini yapsın
+-- Kodu biraz kontrol et Temiz olsun kurallara uyarak yeniden tasarlamaya çalış
+
+
+
+
+
+-- Enpassı iki ayrı renk olarak yapmamam Sorun Çıkaracak olabilir dikkat et . Saçma yerlere gidebilir .
